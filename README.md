@@ -22,4 +22,14 @@ Formação Fullstack da Rocketseat
 ## Stage 01 - Basics of WEB Programming
 
 - What is Programming?
-- 
+- Programming Logic
+- What is the Web and how does it work?
+- Front-end VS Back-end
+
+
+## Introduction to HTML and CSS
+- Browser and code editor
+    - Google Chrome, Edge
+    - VS Code
+- Introduction to HTML
+-  
